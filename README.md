@@ -17,7 +17,7 @@ To detect the optimal month, XYZ freelancer performed the following:
 - Grouped all canceled campaigns by campaign launch month 
 
 Here's the graph to visualize the analysis: 
-![](images/github-Theater_Outcomes_vs_Launch.png)
+![](images/Theater_Outcomes_vs_Launch.png)
 
 From this graph, you will see the following: 
 - May is the month with most successful campaings.
@@ -31,7 +31,7 @@ To detect the optimal donation goal, XYZ freelancer performed the following:
 - Calculated the percentage of successful, percentage of failed, and percentage of canceled on each dollar donation price range bucket
 
 Here's the graph to visualize the analysis: 
-![](images/github-Outcomes_vs_Goals.png)
+![](images/Outcomes_vs_Goals.png)
 
 From this graph, you will see that less than $1,000 donation has the highest success rate and lowest failure rate. Based on this criteria alone, less than $1,000 donation is the optimal donation goal range. 
 
